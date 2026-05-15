@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+dist/
+.vite/
+cypress/videos/
+cypress/screenshots/
+.env
+.env.local
+*.log
+.DS_Store
